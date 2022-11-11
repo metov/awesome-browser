@@ -1,6 +1,6 @@
 # Awesome Browser
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) - [Contribution Guidelines](contributing.md)
 
 A curated list of awesome programs for browsing the web.
 
