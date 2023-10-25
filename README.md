@@ -11,12 +11,15 @@ A curated list of awesome programs for browsing the web.
 * [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) - Firefox edition with extra features for web developers
 * [LibreWolf](https://librewolf.net/) - customized Firefox with many privacy enhancements
 * [Pale Moon](https://www.palemoon.org/) - forked from old Firefox (pre-WebExtensions), has its own extension store
-* [qutebrowser](https://github.com/qutebrowser/qutebrowser) - keyboard driven (like Vimium) browser developed in Python
 * [SeaMonkey](https://www.seamonkey-project.org/) - continuation of Mozilla Internet Suite
 * [Tor Browser](https://www.torproject.org/download/) - official/recommended Tor browser, based on Firefox
 * [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) - open source version of Google Chrome, with Google integration removed
 * [uzbl](https://github.com/uzbl/uzbl) - a browser that adheres to the Unix philosophy
 * [WaterFox Classic](https://www.waterfox.net/) - fork of Firefox 56 with privacy and performance enhancements
+
+### Keyboard based
+* [vieb](https://github.com/Jelmerro/Vieb) - vi-style keys, ad-blocker with cosmetic element hiding
+* [qutebrowser](https://github.com/qutebrowser/qutebrowser) - keyboard driven (like Vimium) browser developed in Python
 
 ## Desktop (terminal)
 * [Browsh](https://www.brow.sh/) - terminal browser, intended as a modern replacement for Lynx
